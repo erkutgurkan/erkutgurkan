@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<h3 align="center">Someone trying to become a front-end developper</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Erkut%20Gürkan&fontSize=50&fontAlign=20)
+<h3 align="left">Someone trying to become a front-end developper</h3>
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React.js**
+<h3 align="left">Learning</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
