@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/sirrsolaire/sirrsolaire/master/intro.gif" alt="👋 Hi there! I'm Erkut Gürkan" title="👋 Hi there! I'm Erkut Gürkan"/>]
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <h3 align="center">Someone trying to become a front-end developper</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React.js**
