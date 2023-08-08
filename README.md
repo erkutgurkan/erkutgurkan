@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erkut Gürkan</h1>
+[<img src="https://raw.githubusercontent.com/sirrsolaire/sirrsolaire/master/intro.gif" alt="👋 Hi there! I'm Erkut Gürkan" title="👋 Hi there! I'm Erkut Gürkan"/>]
 <h3 align="center">Someone trying to become a front-end developper</h3>
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React.js**
