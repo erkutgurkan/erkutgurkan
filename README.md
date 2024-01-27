@@ -4,7 +4,7 @@
 <h3 align="left">Learning</h3>
 <p align="left">
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/><img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="reactNative" width="40" height="40"/><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" alt="typescript" width="40" height="40"/><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/><img src="https://devtop.io/wp-content/uploads/2022/10/react-native-1.png" alt="reactNative" width="60" height="40"/><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" width="40" height="40"/>
 
 
 
