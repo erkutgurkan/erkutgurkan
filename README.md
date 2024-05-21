@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Erkut%20Gürkan&fontSize=50&fontAlign=20)
-<h3 align="left">Someone trying to become a front-end developper</h3>
 
 <h3 align="left">Learning</h3>
 <p align="left">
