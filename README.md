@@ -16,7 +16,6 @@
 `Node.js` • `Express.js` • `Socket.io` • `GraphQL` • `REST API`
 
 🗄️ **Databases**
-
 `MongoDB` • `Mongoose` • `PostgreSQL` • `MySQL` • `SQLite` • `Supabase`
 
 ⚙️ **DevOps & Cloud**
