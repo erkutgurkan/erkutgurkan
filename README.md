@@ -6,7 +6,6 @@
 
 
 
-
 🖥️ **Frontend Development**  
 `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Native (Expo, Native CLI)` • `Next.js` • `Angular.js` • `Vue.js` • `Electron.js` • `Vite`
 
