@@ -7,17 +7,23 @@
 
 
 
-✨ **Languages**  
-`HTML` • `CSS` • `JavaScript` • `TypeScript`
+🖥️ **Frontend Development**  
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `React Native (Expo, Native CLI)` • `Next.js` • `Angular.js` • `Vue.js` • `Electron.js` • `Vite`
 
-🚀 **Frameworks & Libraries**  
-`React` • `React Native` • `Next.js` • `AngularJS` • `Electron.js` • `Node.js` • `Tailwind CSS` • `Bootstrap` • `Styled Components` • `Material UI (MUI)` • `Chakra UI` • `Ant Design` • `Shadcn UI` • `React Native Paper` 
+🚀 **Libraries**  
+`Redux` • `Tanstack Query` • `Zustand ` • `Tailwind CSS` • `Styled Components` • `MUI` • `Ant Design` • `Shadcn UI` • `Chackra UI` • `Mantine` • `Framer Motion` • `React Hook Form` • `Socket.io` • `React Router` • `Axios`
 
-📦 **State Management**  
-`Redux` • `React Query` • `Zustand` • `Context API`
+📦 **Backend Development**  
+`Node.js` • `Express.js` • `Socket.io` • `GraphQL` • `REST API`
+
+🗄️ **Databases & ORM/ODM**
+`MongoDB` • `Mongoose` • `PostgreSQL` • `MySQL` • `SQLite` • `Supabase`
+
+⚙️ **DevOps & Cloud**
+`Docker` • `Vercel` • `Netlify` • `Heroku` • `Firebase`
 
 💻 **Platforms & Tools**  
-`Expo`
+`Expo` • `Postman` • `Git` • `EsLint` • `Prettier`
 
 
 
